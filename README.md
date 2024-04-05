@@ -1,5 +1,7 @@
-# ROS Joystick Drivers Stack #
+# ROS Joystick PKG #
 
-[![](https://github.com/ros-drivers/joystick_drivers/workflows/Basic%20Build%20Workflow/badge.svg?branch=master)](https://github.com/ros-drivers/joystick_drivers/actions)
-
-A simple set of nodes for supporting various types of joystick inputs and producing ROS messages from the underlying OS messages.
+** 다음 apt 설치필요 **
+sudo apt update
+sudo apt install libspnav-dev
+sudo apt install libbluetooth-dev
+sudo apt install libcwiid-dev
